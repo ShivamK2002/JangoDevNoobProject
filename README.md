@@ -1,5 +1,5 @@
- python -m venv myenv
- myenv\Scripts\activate
-django-admin startproject core
-cd core
-python manage.py startapp accounts
+1. python -m venv myenv
+2. myenv\Scripts\activate
+3. django-admin startproject core
+4. cd core
+5. python manage.py startapp accounts
